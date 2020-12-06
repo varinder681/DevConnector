@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://var123:var123@cluster-mern-stack.84ynf.mongodb.net/MERN-STACK-DB?retryWrites=true&w=majority",
+    "jwtSecret": "secret",
+    "githubToken": "6892a32eef7f775965e1eada8b779d3dbfb9e0ee ",
+    "githubClientId" : "ee7f6800c3dee2be7789"
+}
